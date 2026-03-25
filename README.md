@@ -26,7 +26,7 @@ Plotly
 📈 Fund Growth Over Time
 ![Fund Growth](increase_on_funds.png)
 - Plotly Version
-[Click here to view the interactive chart](./failed_banksplotly.html)
+[Click here to view the interactive chart](https://zbreno11-git.github.io/failed_banks_EDA/failed_banksplotly.html)
 
 
 ## Author
