@@ -2,7 +2,8 @@
 
 ## Overview
 This project explores bank failure data from the FDIC to identify trends over time, focusing on financial crises and institutional behavior.
-Key Insights
+
+### Key Insights
 
 ## 📈 2010 spike in failures
 Strong increase in bank failures following the 2008 financial crisis.
