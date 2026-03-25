@@ -22,9 +22,9 @@ Plotly
 
 ## Output
 📊 Bank Failures per Year
-![Banks Failures](Images/banks_pyear.png)
+![Banks Failures](banks_pyear.png)
 📈 Fund Growth Over Time
-![Fund Growth](Images/increase_on_funds.png)
+![Fund Growth](increase_on_funds.png)
 - Plotly Version
 [Click here to view the interactive chart](./failed_banksplotly.html)
 
